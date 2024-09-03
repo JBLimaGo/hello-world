@@ -1,16 +1,12 @@
 .App {
   text-align: center;
-  
-  background-color: #282c34;
-
 }
 
 h1 {
   text-align: center;
-  color: blue;
+  color: red;
+  background: black;
 }
-
-
 
 .App-logo {
   height: 40vmin;
@@ -45,6 +41,4 @@ h1 {
   to {
     transform: rotate(360deg);
   }
- 
-
 }
